@@ -1,0 +1,66 @@
+.slide-title{                                                                                                                                                                                                   
+        background-color: #051e47;                                                                                                      
+        color: #FFFFFF;
+    
+        margin: 0 auto;                                                                                                                                                                                            
+        width:1200px;                                                                                                                                                                                              
+        border-radius: 10px;                                                                                                                                                                                       
+        border: 1px solid gray;                                                                                                                                                                                    
+        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);                                                                                                                                                                
+        font-family: roboto;                                                                                                                                                                                       
+        padding: 5px 10px;                                                                                                                                                                               
+        display: table;                                                                                                                                                                                            
+        border-spacing: 10px;                                                                                                          
+    
+}                                  
+
+#rise-footer {
+  position: fixed;
+  padding: 10px;
+  bottom: 10;
+  left: 0;
+  right: 0;
+  background-color: #FFFFFF;                                                                                                      
+  color: #051e47;
+   
+  margin: 0 auto;                                                                                                                                                                                            
+  width:1700px;                                                                                                                                                                                              
+  border-radius: 10px;                                                                                                                                                                                     
+  border: 2px solid gray;                                                                                                                                                                                    
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);                                                                                                                                                                
+  font-family: roboto;
+  font-size: 150%;  
+  font-weight: bold;    
+  text-align: center;
+  padding: 5px 10px;                                                                                                                                                                                                                                                                                                                                                                          
+  border-spacing: 10px;                                   
+}
+
+
+
+
+#rise-header {
+  background-image: url("IMG/logo.png");  
+  background-size: auto 100%;
+  background-position: right; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */ 
+  position: fixed;
+  padding: 10px;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #051e47;  
+  
+        color: #FFFFFF;
+    
+        margin: 0 auto;                                                                                                                                                                                            
+        width:1700px;                                                                                                                                                                                              
+        border-radius: 10px;                                                                                                                                                                                       
+        border: 1px solid gray;                                                                                                                                                                                    
+        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);                                                                                                                                                                
+        font-weight: bold;  
+        font-size: 200%;
+        padding: 15px 25px;                                                                                                                                                                                                                                               display: table;                                                                                                                                 
+        border-spacing: 10px;                                     
+}
+
