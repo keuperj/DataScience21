@@ -1,3 +1,3 @@
-A = "this is A"
+A = "this is an A"
 
-B=5
+B=16
